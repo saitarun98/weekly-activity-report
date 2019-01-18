@@ -1,4 +1,4 @@
-# Template: Weekly Activity Reports
+# Weekly Activity Reports
 01-17-19
 # Saitarun's Weekly Activity Report - Friday, January 18th, 2019
 ### Legend
