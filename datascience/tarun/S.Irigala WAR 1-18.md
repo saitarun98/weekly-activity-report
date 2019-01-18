@@ -32,7 +32,7 @@ My objective now is to study Data Warehouses, constructing them, as well as deve
 
 ### Summary/Remarks:
 
-- I becan learning about data warehousing and machine learning.
+- I began learning about data warehousing and machine learning.
 
 - Learned about SWIR Target identifiers.
 
